@@ -9,7 +9,7 @@ title: Oubral's Lantern
 
 ## Oubral's Lantern Uploader
 
-*Oubral's Lantern Uploader* is a private tool used only by the channel owner. It uploads the channel's own finished videos to YouTube, schedules their publication time and reads their statistics, using the YouTube Data API. It is not offered to the public and does not access anyone else's account.
+*Oubral's Lantern Uploader* is a private tool used only by the channel owner. It uploads the game's own finished videos to the game's own YouTube, Instagram and TikTok accounts, schedules their publication time and reads their statistics, using the YouTube Data API, the Instagram API and the TikTok Content Posting API. It is not offered to the public and does not access anyone else's account.
 
 ### YouTube API Services
 
